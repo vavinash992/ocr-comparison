@@ -88,7 +88,7 @@ Although better than Mistral, Landing AI also revealed multiple critical flaws:
 
 <img src="https://github.com/vavinash992/ocr-comparison/blob/main/images/Landing%20AI%20Output%201.png?raw=true" alt="Image: Output received from Landing AI" width="850">
 
-<img src="https://github.com/vavinash992/ocr-comparison/blob/main/images/Docsumo%20Output%20Landing%20AI%201.png?raw=true" alt="Image: Docsumo's Output" width="850">
+<img src="https://github.com/vavinash992/ocr-comparison/blob/main/images/Docsumo%20Output%20Landing%20AI%201.png" alt="Image: Docsumo's Output" width="850">
 
 **3. Inaccurate field labeling**
 
